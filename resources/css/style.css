@@ -1,0 +1,32 @@
+
+body {
+  font-size: .875rem;
+  background: #f2f2f2;
+}
+
+.feather {
+  width: 16px;
+  height: 16px;
+  vertical-align: sub;
+}
+
+.signup-form {
+  background: white;
+  padding: 50px;
+  border-radius: 10px;
+  margin-top: 60px;
+  border: 1px solid #d9d9d9;
+}
+
+.btn-dark {
+  background: #343a40;
+}
+
+.btn:focus,.btn:active {
+  outline: none !important;
+  box-shadow: none;
+}
+
+nav a {
+  color: white ;
+}
