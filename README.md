@@ -7,7 +7,7 @@ Basic to-do list application made to get more familiar with both Vue and Laravel
 * Kick out users with expired/invalid access tokens;
 * Vuex for a centralized store and better state management between all the components;
 * Login & Register client validations;
-* Other functionalities like pagination, associate labels/projects to tasks, etc.;
+* Other functionalities like pagination, associate labels/projects to tasks, letting users manager their priorities instead of the global default ones (low, medium, high) etc.;
 
 ### Important:
 
