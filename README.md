@@ -35,5 +35,6 @@ Here's how to do that (using xampp):
 1. Navigate to the project folder;
 2. Make sure that you have all the dependencies by running `composer install` and `npm install`;
 3. Create the database and make sure it matches the one defined in the env file (check the credentials while you're at it);
-4. Run the migrations. `php artisan migrate`;
+4. Run the migrations: `php artisan migrate`;
+5. Run `php artisan passport:install` to install the passport. You don't need to do anything with the generated secrets because the one being used by default by the app will already be in the database at this point.
 5. That's it.
